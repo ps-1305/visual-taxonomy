@@ -11,7 +11,7 @@ nav_order: 1
 | ----------- | -------------------------- |
 | id | unique product identifier  |
 | Category | top-level garment class    |
-| attr\_1 … 10| category-specific features |
+| attr\_1 … 10 | category-specific features |
 
 ### 1.2 Category → attribute mapping
 Different categories own different attribute vocabularies.  
