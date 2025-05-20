@@ -7,10 +7,10 @@ nav_order: 1
 ## 1. Dataset & Label Engineering
 
 ### 1.1 CSV schema
-| column      | description                |
+| column | description                |
 | ----------- | -------------------------- |
-| id          | unique product identifier  |
-| Category    | top-level garment class    |
+| id | unique product identifier  |
+| Category | top-level garment class    |
 | attr\_1 … 10| category-specific features |
 
 ### 1.2 Category → attribute mapping
