@@ -1,0 +1,8 @@
+/* Make code blocks wrap */
+.highlight pre {
+white-space: pre-wrap;
+}
+
+/* Slightly bigger headings */
+h1 { font-size: 2.0em; }
+h2 { font-size: 1.6em; }
