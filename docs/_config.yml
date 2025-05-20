@@ -1,0 +1,8 @@
+title: Fashion Attribute Classifier
+description: End-to-end pipeline with ResNet-SE backbone, Focal Loss and class-aware heads
+theme: minima                 # any GitHub-supported Jekyll theme
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+github: [metadata]
+permalink: pretty
