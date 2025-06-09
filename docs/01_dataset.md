@@ -6,6 +6,8 @@ nav_order: 1
 
 ## 1. Dataset & Label Engineering
 
+### 1.1 CSV Schema
+
 | column | description                |
 | ----------- | -------------------------- |
 | id | unique product identifier  |
@@ -27,3 +29,4 @@ If a row is shorter than the maximum attribute length of its category we keep `N
 `augment=True` enables a `transforms.Compose` with  
 `RandomHorizontalFlip → RandomRotation → ColorJitter → RandomAffine`  
 while the *validation* pipeline is plain `Resize → ToTensor → Normalize`.
+CS
