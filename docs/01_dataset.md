@@ -6,8 +6,6 @@ nav_order: 1
 
 ## 1. Dataset & Label Engineering
 
-### 1.1 CSV schema
-
 | column | description                |
 | ----------- | -------------------------- |
 | id | unique product identifier  |
